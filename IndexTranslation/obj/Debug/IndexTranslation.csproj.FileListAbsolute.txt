@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\IndexTranslation\IndexTranslation\bin\Debug\IndexTranslation.exe
+c:\users\administrator\documents\visual studio 2015\Projects\IndexTranslation\IndexTranslation\bin\Debug\IndexTranslation.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\IndexTranslation\IndexTranslation\obj\Debug\IndexTranslation.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\IndexTranslation\IndexTranslation\obj\Debug\IndexTranslation.exe
+c:\users\administrator\documents\visual studio 2015\Projects\IndexTranslation\IndexTranslation\obj\Debug\IndexTranslation.pdb

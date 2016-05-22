@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\IndexTranslation\LocateTranslation\bin\Debug\LocateTranslation.exe
+c:\users\administrator\documents\visual studio 2015\Projects\IndexTranslation\LocateTranslation\bin\Debug\LocateTranslation.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\IndexTranslation\LocateTranslation\obj\Debug\LocateTranslation.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\IndexTranslation\LocateTranslation\obj\Debug\LocateTranslation.exe
+c:\users\administrator\documents\visual studio 2015\Projects\IndexTranslation\LocateTranslation\obj\Debug\LocateTranslation.pdb

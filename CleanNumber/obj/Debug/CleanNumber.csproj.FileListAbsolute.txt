@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\IndexTranslation\CleanNumber\bin\Debug\CleanNumber.exe
+c:\users\administrator\documents\visual studio 2015\Projects\IndexTranslation\CleanNumber\bin\Debug\CleanNumber.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\IndexTranslation\CleanNumber\obj\Debug\CleanNumber.exe
+c:\users\administrator\documents\visual studio 2015\Projects\IndexTranslation\CleanNumber\obj\Debug\CleanNumber.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\IndexTranslation\CleanNumber\obj\Debug\CleanNumber.csprojResolveAssemblyReference.cache

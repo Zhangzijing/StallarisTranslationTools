@@ -1,0 +1,16 @@
+﻿l_english:
+
+ ####################################
+ # Special Projects
+ ####################################
+
+ hallucinogen_removal:0 "有害气体移除,13230"
+ hallucinogen_removal_DESC:1 "尝试移除我们在 [Root.GetName] 上的有毒大气.,13231"
+ impact_defence_system:0 "小行星防御系统,13232"
+ impact_defence_system_DESC:0 "我们必须研究如何最好的保护我们的殖民地 [Root.GetName] ，使其免受小行星的侵袭.,13233"
+ titanic_life_study_normal:0 "研究泰坦巨兽,13234"
+ titanic_life_study_normal_DESC:1 "通过研究在 [Root.GetName] 的泰坦巨兽，我们有望了解它们，甚至与它们进行交流.,13235"
+ titanic_life_study_mean:0 "解剖泰坦巨兽,13236"
+ titanic_life_study_mean_DESC:1 "通过捕获在 [Root.GetName] 的泰坦巨兽，我们将会研究出如何利用它们！,13237"
+ titanic_life_study_nice:0 "监视泰坦巨兽,13238"
+ titanic_life_study_nice_DESC:1 "通过谨慎地监视 [Root.GetName] 的泰坦巨兽，我们希望尽可能与它们和平共处.,13239"

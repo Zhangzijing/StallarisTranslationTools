@@ -1,0 +1,137 @@
+﻿l_english:
+ ####################################
+ # Opinion Modifiers
+ ####################################
+ opinion_graverobber_1:0 "亵渎坟墓,11760"
+ opinion_graverobber_2:0 "$opinion_graverobber_1$,11761"
+ opinion_graverobber_3:0 "$opinion_graverobber_1$,11762"
+ opinion_crew_saved:0 "幸存的船员,11763"
+ opinion_abandoned:0 "被抛弃的难民,11764"
+ opinion_abandoned_apology:0 "$opinion_abandoned$,11765"
+ opinion_abandoned_insult:0 "$opinion_abandoned$,11766"
+ assassination_forgiven:0 "Hostility Forgiven,11767"
+ 
+ ####################################
+ # Empire Modifiers 
+ ####################################
+ media_coverage_positive_high:0 "极为正面的报道,11768"
+ media_coverage_positive_medium:0 "很正面的报道,11769"
+ media_coverage_positive_low:0 "正面的报道,11770"
+ media_coverage_negative_low:0 "负面的报道,11771"
+ media_coverage_negative_medium:0 "很负面的报道,11772"
+ media_coverage_negative_high:0 "极为负面的报道,11773"
+ scientist_team_well_treated:0 "精力非常好的科学家们,11774"
+ health_discovery:0 "制药学的创新,11775"
+ solar_harvesting_bacteria:0 "加强太阳能,11776"
+ army_speed_boost:0 "加强太空船速度,11777"
+ zero_gravity_revelation:0 "零重力创新,11778"
+ youthful_elite:0 "拒绝不老药,11779"
+ youthful_people:0 "分享不老药,11780"
+ slavery_bad_juju:0 "The Face of Slavery,11781"
+ slavery_very_bad_juju:0 "显示一个奴隶的未来,11782"
+ fertility_virus:0 "生长抑制武器,11783"
+ forth_dimension_knowledge:0 "特别的空间洞察力,11784"
+ army_inspiration:0 "Inspired Army Recruits,11785"
+ science_inspiration:0 "Inspired Science Recruits,11786"
+ streamlined_ship_design:0 "简化算法,11787"
+ immigrants_protection:0 "保护弱势群体,11788"
+ fear_as_control_militarist_p2:0 "闷闷不乐的管理,11789"
+ 
+ ####################################
+ # Edicts 
+ ####################################
+ edict_masters_writings_politics:0 "大师的教诲：上上善道,11790"
+ edict_masters_writings_politics_desc:0 "Translations of an alien philosopher's teachings. By following her advice on how to unify the people via self-sacrifice we could make great strides in infrastructure.\n\n"A strong nation is built upon the sacrifice of comfort, as long as everyone is asked to carry the burden together." - Telisa the Teller of Tales\n\n,11791"
+ edict_masters_writings_philosophy:0 "大师的教诲：哲学思维,11792"
+ edict_masters_writings_philosophy_desc:0 "Translations of an alien philosopher's teachings. It contains several analysis and ponderings on the meaning of life and the purpose of the cosmos. By having our rulers follow these advice we can make more informed decisions.\n\n"The answer to the purpose of the cosmos lies outside of us, but that does not make us less inclined to find it. We must strive for unity in order to reach the answer about the root of all things." - Telisa the Teller of Tales\n\n,11793"
+ edict_masters_writings_diplomacy:0 "大师的教诲：外交信赖,11794"
+ edict_masters_writings_diplomacy_desc:0 "Translations of an alien philosopher's teachings. Her anecdotes from diplomatic negotiations could act as a good base for diplomatic negotiations.\n\n"Encountering the children of the cosmos might feel harrowing, but ultimately it is an opportunity for hope. Be host to your neighbor and relish in their existence, as the blessing they bring is an end to the isolation of the void." - Telisa the Teller of Tales\n\n,11795"
+ edict_masters_writings_war:0 "Master's Teachings: Warring States,11796"
+ edict_masters_writings_war_desc:0 "Translations of an alien philosopher's teachings. Her depictions of war and ideas on combat strategy could make for excellent training material for our military.\n\n"Creating unity is the biggest challenge, particularly because sustainability often generates borders. These borders need to be torn down, a sentiment that scares many. One must sometimes be willing to tear down in order to build something stronger from the ashes." - Telisa the Teller of Tales\n\n,11797"
+ edict_improved_work_environment:0 "提升工作环境,11798"
+ edict_improved_work_environment_desc:0 "Spending time and resources to improve the working conditions of our people will surely result in better results and happier workers.\n\n,11799"
+ edict_renewable_energy:0 "增加精神主动,11800"
+ edict_renewable_energy_desc:0 "We can further limit the use of toxic fuels and non-renewable resources in order to promote research into new methods of energy production. This could help us come closer to a perfect energy cycle and improve the environment for our people to enjoy.\n\n,11801"
+ edict_super_sensors:0 "大范围传感探测,11802"
+ edict_super_sensors_desc:0 "After having researched advanced sensor technology we have enough information to pour extra resources into enhancing our own search scans. Our technicians would have an easier time finding objects of interest at the edge of our systems with this initiative.\n\n,11803"
+ 
+ ####################################
+ # Planet Modifiers 
+ ####################################
+ acid_jungles:0 "酸性雨林,11804"
+ acid_jungles_desc:0 "雨林的进化，让树木和树叶能散发出酸液，使得地形变得危险而且难以定居.,11805"
+ ex_planet:0 "超行星,11806"
+ ex_planet_desc:0 "小行星带是一个曾经拥有生命的行星的残骸.,11807"
+ ship_graveyard:0 "飞船墓地,11808"
+ ship_graveyard_desc:0 "大量的飞船在这里坠毁，让这里形成了装满着各种材料的飞船墓地.,11809"
+ ai_fleet:0 "坠毁的人工智能舰队,11810"
+ ai_fleet_desc:0 "一个由AI控制的舰队坠毁在这个星球上，给了我们宝贵的工程数据让我们去研究.,11811"
+ irradiated_wasteland:0 "辐射废土,11812"
+ irradiated_wasteland_desc:0 "这个星球被辐射侵袭了，使其对于大多数生命来说都是很危险的.,11813"
+ ancient_one:0 "旧日支配者,11814"
+ ancient_one_desc:0 "从上古开始就存在于深海当中主宰这个星球的存在.,11815"
+ food_rich_planet:0 "营养食品,11816"
+ food_rich_planet_desc:0 "星球上的植物提供了营养丰富的水果和各种材料来改善生活环境.,11817"
+ super_sensor_array:0 "上级传感器阵列,11818"
+ super_sensor_array_desc:0 "一个强大的传感器阵列能够探测到更加详细的周边情况,11819"
+ horse_powered_factories_low:0 "强迫劳役,11820"
+ horse_powered_factories_medium:0 "不情愿的劳役,11821"
+ horse_powered_factories_high:0 "自愿的劳役,11822"
+ horse_powered_factories_low_desc:0 "驯化牲畜来减轻工作负担，尽管它们是不情愿的.,11823"
+ horse_powered_factories_medium_desc:0 "驯化牲畜来减轻工作负担，尽管它们是不情愿的.,11824"
+ horse_powered_factories_high_desc:0 "驯化牲畜来减轻工作负担.,11825"
+ fallen_robots:0 "机器人残骸,11826"
+ fallen_robots_desc:0 "星球上有着一些衰落的文明建造的机器人，给了我们工程材料研究的机会.,11827"
+ society_animal_life:0 "古怪的生物,11828"
+ society_animal_life_desc:0 "一些古怪的生物居住在这个星球上，他们提供了一些很有趣的研究机会.,11829"
+ hostile_animal_life:0 "危险的生物,11830"
+ hostile_animal_life_desc:0 "这些生物是这个星球上的主人，它们对我们富有敌意.,11831"
+ shifting_sands:0 "流沙,11832"
+ shifting_sands_desc:0 "沙漠行星由近乎液态的沙子组成，使得在上面建造变得极为困难.,11833"
+ liquid_sands:0 "液态沙,11834"
+ liquid_sands_desc:0 "这个星球被近乎液态的沙子所覆盖，奇特的成分组成的矿物提供了大量的研究机会.,11835"
+ abandoned_mining:0 "遗弃的采矿设施,11836"
+ abandoned_mining_desc:0 "一个古老的采矿设施围绕着这个星球旋转，证明这里有可能有潜在的资源.,11837"
+ gas_rich_planet:0 "富气存储,11838"
+ gas_rich_planet_desc:0 "在星球上建立一个殖民地并开采这个资源.\n£energy  §G+50%§!,11839"
+ gas_rich_planet_fo_realz:0 "富气矿,11840"
+ gas_rich_planet_fo_realz_desc:0 "在星球上开采稀有资源能提升整体的能源生产水平.,11841"
+ gas_responsible_mining:0 "可靠的气矿,11842"
+ gas_responsible_mining_desc:0 "存储宝贵的天然气资源，有助于让长期的能源生产效率变高.,11843"
+ suppressed_opposition:0 "镇压反对派,11844"
+ suppressed_opposition_desc:0 "这个星球上因为有一部分人是反对派，所以被政府暴力镇压了.,11845"
+ scared_population:0 "害怕的群众,11846"
+ scared_population_desc:0 "人们生活在恐惧之下，因为外星工厂将会夺去很多生命.,11847"
+ secured_factory:0 "外星工厂安检,11848"
+ secured_factory_desc:0 "花费成本和精力去确保在外星工厂工作是安全的.,11849"
+ fear_as_control:0 "苛政,11850"
+ fear_as_control_desc:0 "煽动群众造反会受到惩罚变成罪犯.,11851"
+ fear_as_control_militarist:0 "$fear_as_control$,11852"
+ fear_as_control_militarist_desc:0 "$fear_as_control_desc$,11853"
+ infectious_disease:0 "传染病,11854"
+ infectious_disease_desc:0 "一种有着全新传染链的传染性极强的疾病已经被释放出来了.,11855"
+ pyramid_wars:0 "天际之战,11856"
+ pyramid_wars_desc:0 "本质上是因为“外神”的宗教冲突而爆发的人类战争.,11857"
+
+ ####################################
+ # Ship/Fleet Modifiers 
+ ####################################
+ ship_survey_boost:0 "增强探测扫描仪,11858"
+ alien_racing_ship:0 "Science Ship,11859"
+ alien_racing_ship_plural:0 "Science Ships,11860"
+ protege_onboard:0 "有希望的船员,11861"
+ ship_master_cruiser:0 "先驱者设计,11862"
+ 
+ ####################################
+ # Pop Modifiers
+ ####################################
+ opinion_respected:0 "受重视的意见,11863"
+ opinion_disrespected:0 "不受重视的意见,11864"
+ pop_angered:0 "暴怒,11865"
+ pop_pleased:0 "满意,11866"
+ alien_infection:0 "外星影响,11867"
+
+ ####################################
+ # DEBUG STUFF
+ ####################################
+ 

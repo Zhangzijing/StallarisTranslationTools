@@ -1,0 +1,107 @@
+﻿l_english:
+ ####################################
+ # Alpha Naming Convention - WILL LIKELY BE CHANGED IF SECTIONS ARE REDESIGNED
+ #
+ # Mid sections have a flavor-name fitting to number of weapon/utility slots followed by the key-word "核心"
+ # Front sections have a flavor-name followed by the key-word "舰艏"
+ # Rear sections have a flavor-name followed by the key-word "舰尾"
+ #
+ ####################################
+ 
+ 
+ ####################################
+ # Battleship
+ ####################################
+ BATTLESHIP_BOW_L1M1S2:0 "星体 舰艏,13470"
+ BATTLESHIP_BOW_L1S4:0 "泰坦 舰艏,13471"
+ BATTLESHIP_BOW_L2:0 "脉冲 舰艏,13472"
+ BATTLESHIP_BOW_M1S2SHB:0 "弥撒 舰艏,13473"
+ BATTLESHIP_BOW_M2S4:0 "生命 舰艏,13474"
+ BATTLESHIP_BOW_M3S2:0 "灵魂 舰艏,13475"
+ BATTLESHIP_MID_L2S4:0 "超新星 核心,13476"
+ BATTLESHIP_MID_L1M4:0 "风暴使者 核心,13477"
+ BATTLESHIP_MID_L2M2:0 "长尾鲛 核心,13478"
+ BATTLESHIP_MID_L3:0 "奇点 核心,13479"
+ BATTLESHIP_MID_M4SHB:0 "复仇 核心,13480"
+ BATTLESHIP_MID_S4LHB:0 "巨人 核心,13481"
+ BATTLESHIP_STERN_M1S2:0 "万古 舰尾,13482"
+ BATTLESHIP_STERN_L1:0 "无限 舰尾,13483"
+ BATTLESHIP_STERN_M2:0 "新纪元 舰尾,13484"
+ BATTLESHIP_STERN_S4:0 "天顶 舰尾,13485"
+
+ ####################################
+ # Colonizer
+ ####################################
+ COLONIZER_MID_M1S1:0 "方舟 核心,13486"
+ COLONIZER_MID_S3:0 "种子 核心,13487"
+ COLONIZER_MID_MU1:0 "伊甸 核心,13488"
+
+ ####################################
+ # Constructor
+ #################################### 
+ CONSTRUCTOR_MID_M1S1:0 "装配者 核心,13489"
+ CONSTRUCTOR_MID_S3:0 "开发者 核心,13490"
+ CONSTRUCTOR_MID_MU1:0 "熔炼者 核心,13491"
+
+ ####################################
+ # Corvette
+ #################################### 
+ CORVETTE_MID_M1S1:0 "打击者 核心,13492"
+ CORVETTE_MID_S3:0 "拦截者 核心,13493"
+ CORVETTE_MID_S1:0 "游牧者 核心,13494"
+
+ ####################################
+ # Cruiser
+ #################################### 
+ CRUISER_BOW_L1:0 "近卫 舰艏,13495"
+ CRUISER_BOW_M1S2:0 "庇护 舰艏,13496"
+ CRUISER_BOW_M2:0 "锁链 舰艏,13497"
+ CRUISER_MID_S2HB:0 "幽灵 核心,13498"
+ CRUISER_MID_L1M1:0 "惩戒 核心,13499"
+ CRUISER_MID_M3:0 "死神 核心,13500"
+ CRUISER_MID_M2S2:0 "暴怒 核心,13501"
+ CRUISER_STERN_M1:0 "卫士 舰尾,13502"
+ CRUISER_STERN_S2:0 "守护 舰尾,13503"
+
+ ####################################
+ # Destroyer
+ #################################### 
+ DESTROYER_BOW_M1S2:0 "幸运 舰艏,13504"
+ DESTROYER_BOW_S3:0 "希望 舰艏,13505"
+ DESTROYER_BOW_L1:0 "忠诚 舰艏,13506"
+ DESTROYER_STERN_S2:0 "火花 舰尾,13507"
+ DESTROYER_STERN_M1:0 "光耀 舰尾,13508"
+
+ ####################################
+ # Science
+ #################################### 
+ SCIENCE_MID_M1S1:0 "灵感 核心,13509"
+ SCIENCE_MID_S3:0 "先驱 核心,13510"
+ SCIENCE_MID_MU1:0 "洞察 核心,13511"
+ 
+ ####################################
+ # Science
+ #################################### 
+ LIGHT_MILITARY_STATION_SECTION:0 "轻型 空间站槽位,13512"
+ MEDIUM_MILITARY_STATION_SECTION:0 "中型 空间站槽位,13513"
+ HEAVY_MILITARY_STATION_SECTION:0 "重型 空间站槽位,13514"
+ HANGAR_MILITARY_STATION_SECTION:0 "机库 空间站槽位,13515"
+ LIGHT_LARGE_MILITARY_STATION_SECTION:0 "轻型 空间站槽位,13516"
+ MEDIUM_LARGE_MILITARY_STATION_SECTION:0 "中型 空间站槽位,13517"
+ HEAVY_LARGE_MILITARY_STATION_SECTION:0 "重型 空间站槽位,13518"
+ HANGAR_LARGE_MILITARY_STATION_SECTION:0 "机库 空间站槽位,13519"
+ OUTPOST_STATION_SECTION:0 "边境 前哨站核心,13520"
+
+ ####################################
+ # Other
+ #################################### 
+ MISSILE_DEFAULT:0 "导弹 槽位,13521"
+ DEFAULT_CONSTRUCTION_SECTION:0 "装配者 核心,13522"
+ DEFAULT_COLONIZATION_SECTION:0 "保护者 核心,13523"
+ DEFAULT_SCIENCESHIP_SECTION:0 "灵感 核心,13524"
+ DEFAULT_ORBITAL_STATION_SECTION:0 "轨道 空间站架构,13525"
+ DEFAULT_MINING_STATION_SECTION:0 "采掘 空间站架构,13526"
+ DEFAULT_RESEARCH_STATION_SECTION:0 "研究 空间站架构,13527"
+ DEFAULT_WORMHOLE_STATION_SECTION:0 "虫洞 空间站架构,13528"
+ DEFAULT_MILITARY_STATION_SECTION:0 "基础 军事平台,13529"
+ DEFAULT_TRANSPORT_SECTION:0 "运输舰 核心,13530"

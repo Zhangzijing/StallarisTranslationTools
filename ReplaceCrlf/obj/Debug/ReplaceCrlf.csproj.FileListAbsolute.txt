@@ -1,0 +1,4 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\IndexTranslation\ReplaceCrlf\bin\Debug\ReplaceCrlf.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\IndexTranslation\ReplaceCrlf\bin\Debug\ReplaceCrlf.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\IndexTranslation\ReplaceCrlf\obj\Debug\ReplaceCrlf.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\IndexTranslation\ReplaceCrlf\obj\Debug\ReplaceCrlf.pdb

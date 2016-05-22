@@ -1,0 +1,48 @@
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+
+namespace ReplaceCrlf
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            if (args.Length<1)
+            {
+                Console.WriteLine("参数错误!");
+                Console.ReadKey();
+                return;
+            }
+            for (int i = 0; i < args.Length; i++)
+            {
+                if (!File.Exists(args[i]))
+                {
+                    Console.WriteLine("文件不存在!");
+                    Console.ReadKey();
+                    return;
+                }
+            }
+            for (int i = 0; i < args.Length; i++)
+            {
+                Console.WriteLine("Filename: " + args[0]);
+                var newFilename = Path.GetFileName(args[0]) + " - replaced";
+                var fs = File.Open(args[0], FileMode.Open, FileAccess.ReadWrite, FileShare.ReadWrite);
+                var sr = new StreamReader(fs, Encoding.UTF8);
+                var sw = new StreamWriter(new FileStream(newFilename, FileMode.Create), Encoding.UTF8);
+                string line;
+                while ((line = sr.ReadLine()) != null)
+                {
+                    sw.Write(line + "\n");
+                }
+                sw.Flush();
+                Console.WriteLine("Finished.");
+                
+            }
+            Console.WriteLine("All finished.");
+            Console.ReadKey();
+        }
+    }
+}
